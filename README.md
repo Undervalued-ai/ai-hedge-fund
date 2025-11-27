@@ -25,12 +25,12 @@ More modules may be added later if they are safe and useful on their own.
 
 To see what the AI hedge fund is doing in practice, use the site:
 
-- Fund overview: https://undervalued.ai/fund  
+- Fund overview: https://undervalued.ai/funds  
 
 For a detailed view of each strategy:
 
-- Original fund: https://undervalued.ai/fund/original  
-- S&P 500 AI Select: https://undervalued.ai/fund/sp500  
+- Original fund: https://undervalued.ai/funds/original  
+- S&P 500 AI Select: https://undervalued.ai/funds/sp500  
 
 To access stock analysis, search for a ticker from the home page:
 https://undervalued.ai/
